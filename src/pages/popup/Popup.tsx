@@ -16,7 +16,7 @@ const Popup = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React!
+          Learn ReactT!
         </a>
       </header>
     </div>
